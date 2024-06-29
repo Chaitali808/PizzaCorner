@@ -1,0 +1,335 @@
+.about-us,
+.contact {
+  text-decoration: none;
+  width: 116.8px;
+  position: absolute;
+  margin: 0 !important;
+  top: 90px;
+  left: 737px;
+  line-height: 21.6px;
+  color: inherit;
+  display: inline-block;
+  z-index: 3;
+}
+.contact {
+  left: 865px;
+}
+.frame-child {
+  width: 2153px;
+  height: 1163px;
+  position: relative;
+  border-radius: var(--br-50xl);
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.todays-special {
+  margin: 0;
+  width: 287px;
+  position: relative;
+  font-size: inherit;
+  line-height: 31px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+.bacon-pizza-with,
+.italian-pizza,
+.mushroom-flex,
+.pepperoni-pizza {
+  margin: 0;
+}
+.mushroom-flex-bacon-container {
+  margin: 0;
+  height: 94px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.mushroom-flex-bacon-pizza-with-wrapper {
+  align-self: stretch;
+  height: 62px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  z-index: 3;
+  font-size: var(--font-size-31xl);
+  font-family: var(--font-cinzel-decorative);
+}
+.frame-wrapper,
+.mushroom-flex-bacon-pizza-with-wrapper,
+.todays-special-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.todays-special-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-11xl);
+}
+.frame-wrapper {
+  width: 1030px;
+  flex-direction: row;
+  padding: 0 var(--padding-3xl);
+  box-sizing: border-box;
+}
+.separator {
+  width: 43px;
+  height: 4px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 472px;
+  left: 124px;
+  box-shadow: 0 4px 4px rgba(255, 107, 0, 0.25);
+  border-radius: var(--br-lgi-5);
+  background-color: var(--color-tomato);
+  z-index: 1;
+}
+.blank-line,
+.join-us-for,
+.savor-the-flavour {
+  margin: 0;
+}
+.savor-the-flavour-container {
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+  z-index: 3;
+}
+.image-icon {
+  width: 158.5px;
+  height: 157px;
+  position: relative;
+  object-fit: contain;
+  z-index: 1;
+}
+.image-one {
+  height: 157px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 5px 0 0;
+  box-sizing: border-box;
+}
+.image-icon1 {
+  width: 119px;
+  height: 116.6px;
+  position: relative;
+  object-fit: contain;
+  cursor: pointer;
+  z-index: 1;
+}
+.image-two {
+  height: 126px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-7xs) 9.4px 0;
+  box-sizing: border-box;
+}
+.image-icon2 {
+  width: 121.5px;
+  height: 118.3px;
+  position: relative;
+  object-fit: contain;
+  cursor: pointer;
+  z-index: 1;
+}
+.image-three {
+  height: 126.8px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 8.5px;
+  box-sizing: border-box;
+}
+.image-icon3 {
+  width: 120.3px;
+  height: 119.1px;
+  position: relative;
+  object-fit: contain;
+  cursor: pointer;
+  z-index: 1;
+}
+.image-four {
+  height: 128.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 9.8px;
+  box-sizing: border-box;
+}
+.footer-images {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 30.2px;
+  max-width: 100%;
+}
+.savor-the-flavour-freshly-bak-parent {
+  width: 657px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 33px;
+  max-width: 100%;
+  font-size: var(--font-size-xl);
+}
+.header,
+.rectangle-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  flex-shrink: 0;
+}
+.rectangle-parent {
+  flex: 1;
+  border-radius: var(--br-50xl);
+  background-color: var(--color-white);
+  flex-direction: column;
+  padding: var(--padding-34xl) var(--padding-42xl) 536px;
+  box-sizing: border-box;
+  gap: var(--gap-29xl);
+  max-width: 100%;
+  font-size: var(--font-size-11xl);
+}
+.header {
+  width: 2153px;
+  flex-direction: row;
+  max-width: 158%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.icon,
+.icon1,
+.icon2,
+.pizza-rotator-icon {
+  position: absolute;
+  top: -502.4px;
+  left: 0;
+  width: 1984.3px;
+  height: 1903.1px;
+  object-fit: contain;
+  z-index: 2;
+}
+.icon,
+.icon1,
+.icon2 {
+  top: 155.8px;
+  left: 60.4px;
+  width: 156.5px;
+  height: 150.9px;
+  z-index: 4;
+}
+.icon1,
+.icon2 {
+  top: 268px;
+  left: 27.4px;
+  width: 129px;
+  height: 96px;
+  z-index: 5;
+}
+.icon2 {
+  top: 585.9px;
+  left: 89.3px;
+  width: 99.2px;
+  height: 110.2px;
+  z-index: 3;
+}
+.pizza-rotator-parent {
+  width: 727.4px;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+.blog {
+  width: 100%;
+  height: 768px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1125px) {
+  .rectangle-parent {
+    padding-left: var(--padding-11xl);
+    padding-right: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .todays-special {
+    font-size: var(--font-size-5xl);
+    line-height: 25px;
+  }
+  .mushroom-flex-bacon-container {
+    font-size: var(--font-size-21xl);
+  }
+  .rectangle-parent {
+    padding-top: var(--padding-15xl);
+    padding-bottom: 348px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .footer-images {
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+  .savor-the-flavour-freshly-bak-parent {
+    gap: 16px;
+  }
+  .rectangle-parent {
+    gap: var(--gap-5xl);
+  }
+  .blog {
+    height: auto;
+  }
+}
+@media screen and (max-width: 450px) {
+  .about-us,
+  .contact {
+    font-size: var(--font-size-base);
+    line-height: 17px;
+  }
+  .todays-special {
+    font-size: var(--font-size-lg);
+    line-height: 19px;
+  }
+  .mushroom-flex-bacon-container {
+    font-size: var(--font-size-11xl);
+  }
+  .savor-the-flavour-container {
+    font-size: var(--font-size-base);
+  }
+  .rectangle-parent {
+    padding-top: var(--padding-3xl);
+    padding-bottom: 226px;
+    box-sizing: border-box;
+  }
+}

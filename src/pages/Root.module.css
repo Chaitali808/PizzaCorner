@@ -1,0 +1,328 @@
+.pizza-rotator-icon1 {
+  height: 1913.7px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: contain;
+  z-index: 1;
+}
+.about-us1 {
+  text-decoration: none;
+  width: 116.8px;
+  top: 597.3px;
+  left: 40.8px;
+  line-height: 21.6px;
+  color: inherit;
+  display: inline-block;
+  z-index: 2;
+}
+.about-us1,
+.contact1,
+.navigation {
+  margin: 0 !important;
+  position: absolute;
+}
+.contact1 {
+  text-decoration: none;
+  width: 116.8px;
+  top: 597.3px;
+  left: 168.8px;
+  line-height: 21.6px;
+  color: inherit;
+  display: inline-block;
+  z-index: 2;
+}
+.navigation {
+  width: 1953px;
+  height: 1913.7px;
+  top: -507.3px;
+  left: 696.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.content-child {
+  width: 2153px;
+  height: 1163px;
+  position: relative;
+  border-radius: var(--br-50xl);
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.streamline-emojispizza-1-icon,
+.streamline-emojispizza-1-icon1 {
+  position: absolute;
+  width: calc(100% - 3px);
+  top: 3px;
+  right: 3px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 90px;
+  z-index: 1;
+}
+.streamline-emojispizza-1-icon1 {
+  top: 0;
+  right: 0;
+  left: 3px;
+  z-index: 2;
+}
+.logo {
+  height: 93px;
+  width: 96px;
+  position: relative;
+}
+.home,
+.speciality {
+  text-decoration: none;
+  position: relative;
+  line-height: 21.6px;
+  color: inherit;
+  z-index: 1;
+}
+.home {
+  flex: 1;
+}
+.speciality {
+  display: inline-block;
+  min-width: 114.2px;
+}
+.menu-options {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-12xs-2);
+}
+.image-icon4 {
+  width: 237px;
+  height: 158px;
+  position: absolute;
+  margin: 0 !important;
+  right: -226.8px;
+  bottom: -147px;
+  object-fit: cover;
+  z-index: 3;
+}
+.header1,
+.menu {
+  display: flex;
+  box-sizing: border-box;
+}
+.menu {
+  width: 231.2px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-15xl-4);
+  position: relative;
+}
+.header1 {
+  width: 622.2px;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0 0 var(--padding-6xs);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.todays-special1 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 31px;
+  font-weight: 700;
+  font-family: inherit;
+  z-index: 1;
+}
+.special {
+  width: 299px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xs) var(--padding-10xs);
+  box-sizing: border-box;
+}
+.bacon-pizza-with1,
+.italian-pizza1,
+.mushroom-flex1,
+.pepperoni-pizza1 {
+  margin: 0;
+}
+.mushroom-flex-bacon-container1 {
+  margin: 0;
+  height: 119px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.description,
+.description-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.description-container {
+  height: 62px;
+  flex: 1;
+  overflow: hidden;
+  padding: 0 0 var(--padding-base);
+  z-index: 2;
+}
+.description {
+  width: 992px;
+  padding: 0 var(--padding-10xs) var(--padding-10xs);
+  font-size: var(--font-size-31xl);
+  font-family: var(--font-cinzel-decorative);
+}
+.blank-line1,
+.join-us-for1,
+.savor-the-flavour1 {
+  margin: 0;
+}
+.savor-the-flavour-container1 {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+.savor-the-flavour-freshly-bak-wrapper {
+  width: 685px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 14px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-xl);
+}
+.hero-background {
+  width: 43px;
+  height: 4px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 460px;
+  left: 293px;
+  box-shadow: 0 4px 4px rgba(255, 107, 0, 0.25);
+  border-radius: var(--br-lgi-5);
+  background-color: var(--color-tomato);
+  z-index: 1;
+}
+.content,
+.gallery,
+.root {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.gallery {
+  flex-direction: row;
+  padding: 0 27px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.content,
+.root {
+  position: relative;
+  background-color: var(--color-white);
+  flex-direction: column;
+}
+.content {
+  width: 2153px;
+  border-radius: var(--br-50xl);
+  padding: var(--padding-34xl) var(--padding-55xl) 529.3px;
+  box-sizing: border-box;
+  gap: 39px;
+  flex-shrink: 0;
+  max-width: 158%;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.root {
+  width: 100%;
+  height: 768px;
+  overflow: hidden;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1150px) {
+  .content {
+    padding-left: var(--padding-18xl);
+    padding-right: var(--padding-18xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .todays-special1 {
+    font-size: var(--font-size-5xl);
+    line-height: 25px;
+  }
+  .mushroom-flex-bacon-container1 {
+    font-size: var(--font-size-21xl);
+  }
+  .content {
+    padding-top: var(--padding-15xl);
+    padding-bottom: 344px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .content {
+    gap: var(--gap-lgi);
+  }
+  .root {
+    height: auto;
+  }
+}
+@media screen and (max-width: 450px) {
+  .about-us1,
+  .contact1 {
+    font-size: var(--font-size-base);
+    line-height: 17px;
+  }
+  .todays-special1 {
+    font-size: var(--font-size-lg);
+    line-height: 19px;
+  }
+  .mushroom-flex-bacon-container1 {
+    font-size: var(--font-size-11xl);
+  }
+  .savor-the-flavour-container1 {
+    font-size: var(--font-size-base);
+  }
+  .content {
+    padding-top: var(--padding-3xl);
+    padding-bottom: 224px;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-cinzel-decorative: "Cinzel Decorative";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --font-size-31xl: 50px;
+  --font-size-11xl: 30px;
+  --font-size-21xl: 40px;
+  --font-size-lg: 18px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-tomato: #de3a1d;
+
+  /* Gaps */
+  --gap-29xl: 48px;
+  --gap-5xl: 24px;
+  --gap-11xl: 30px;
+  --gap-xl: 20px;
+  --gap-12xs-2: 0.2px;
+  --gap-lgi: 19px;
+  --gap-lg-1: 18.1px;
+  --gap-4xl: 23px;
+  --gap-23xl: 42px;
+  --gap-2xl: 21px;
+
+  /* Paddings */
+  --padding-34xl: 53px;
+  --padding-42xl: 61px;
+  --padding-3xl: 22px;
+  --padding-15xl: 34px;
+  --padding-11xl: 30px;
+  --padding-7xs: 6px;
+  --padding-smi: 13px;
+  --padding-15xl-4: 34.4px;
+  --padding-55xl: 74px;
+  --padding-18xl: 37px;
+  --padding-3xs-5: 9.5px;
+  --padding-xs: 12px;
+  --padding-4xs-2: 8.2px;
+  --padding-11xs: 2px;
+  --padding-10xs: 3px;
+  --padding-base: 16px;
+  --padding-6xs: 7px;
+  --padding-48xl: 67px;
+  --padding-14xl: 33px;
+  --padding-2xl: 21px;
+
+  /* Border radiuses */
+  --br-50xl: 69px;
+  --br-lgi-5: 19.5px;
+}
